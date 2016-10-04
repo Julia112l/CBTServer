@@ -1,6 +1,7 @@
-[MOD] Hero
 [MOD] Paranoic
 [MOD] SpwnX
 [MOD] Kledson
-[MOD] Mary
-[MOD] Snow
+[MOD] Inside
+[MOD] Salamandra
+[MOD] Irlandês 
+
